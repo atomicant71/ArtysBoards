@@ -16,7 +16,7 @@
           "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.1.zip?raw=true",
           "archiveFileName": "ArtysBoards-1.0.1.zip",
           "checksum": "SHA-256:260A8ED2566294551B2820D12638E901BCDFABA2FF70F799C65B9B7542177273",
-          "size": "6451088",
+          "size": "6212570", 
           "boards": [
             {
               "name": "SRS MB5 M0"
