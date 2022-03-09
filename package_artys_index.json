@@ -10,7 +10,8 @@
       [
         {
           "name": "Artys Boards",
-          "architecture": "samd",        
+          "architecture": "samd",     
+          "version": "1.0.0",
           "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.0.zip?raw=true",
           "archiveFileName": "ArtysBoards-1.0.0.zip",
           "checksum": "SHA-256:33923d4ab47ff5f92de3fd22f00e39604b7b4412d9508566685bc1ab6b9a94b3",
@@ -94,7 +95,8 @@
         },
         {
           "name": "Artys Boards",
-          "architecture": "samd",        
+          "architecture": "samd",   
+          "version": "1.0.2",
           "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.2.zip?raw=true",
           "archiveFileName": "ArtysBoards-1.0.2.zip",
           "checksum": "SHA-256:7409383F59792E5253807AFE83F7162CAD74B1CC5C470F6A0935CC9D3F5C72F7",
