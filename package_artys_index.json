@@ -13,7 +13,6 @@
           "architecture": "samd",        
           "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.0.zip?raw=true",
           "archiveFileName": "ArtysBoards-1.0.0.zip",
-          "checksum": "b271895e1680bb2efdece17a9a38df98",
           "checksum": "SHA-256:33923d4ab47ff5f92de3fd22f00e39604b7b4412d9508566685bc1ab6b9a94b3",
           "size": "6451088",
           "boards": [
@@ -92,7 +91,48 @@
               "version": "1.2.0"
             }
           ]
-        }		
+        },
+        {
+          "name": "Artys Boards",
+          "architecture": "samd",        
+          "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.2.zip?raw=true",
+          "archiveFileName": "ArtysBoards-1.0.2.zip",
+          "checksum": "SHA-256:7409383F59792E5253807AFE83F7162CAD74B1CC5C470F6A0935CC9D3F5C72F7",
+          "size": "6540230",
+          "boards": [
+            {
+              "name": "SRS MB5 M0"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        },		
       ],
       "tools":
       [
