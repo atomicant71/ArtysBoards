@@ -51,17 +51,17 @@
           ]
         },
         {
-          "name": "Robo HAT Boards",
+          "name": "Artys Boards",
           "architecture": "samd",
-          "version": "0.0.24",
+          "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.24.zip?raw=true",
-          "archiveFileName": "RoboHat-0.0.24.zip",
-          "checksum": "SHA-256:750fedea5f8ac247a4534dcd3b034c8cb9b27be80c631b59761f8aa87a67d737",
-          "size": "3661545",
+          "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.1.zip?raw=true",
+          "archiveFileName": "ArtysBoards-1.0.1.zip",
+          "checksum": "SHA-256:260A8ED2566294551B2820D12638E901BCDFABA2FF70F799C65B9B7542177273",
+          "size": "6212570", 
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "SRS MB5 M0"
             }
           ],
           "toolsDependencies":
@@ -92,7 +92,7 @@
               "version": "1.2.0"
             }
           ]
-        }
+        }		
       ],
       "tools":
       [
