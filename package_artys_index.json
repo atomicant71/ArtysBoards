@@ -10,13 +10,12 @@
       [
         {
           "name": "Artys Boards",
-          "architecture": "samd",
-          "version": "1.0.1",
-          "category": "Contributed",
-          "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.1.zip?raw=true",
-          "archiveFileName": "ArtysBoards-1.0.1.zip",
-          "checksum": "SHA-256:260A8ED2566294551B2820D12638E901BCDFABA2FF70F799C65B9B7542177273",
-          "size": "6212570", 
+          "architecture": "samd",        
+          "url": "https://github.com/atomicant71/ArtysBoards/blob/main/blob/master/custom_board/ArtysBoards-1.0.0.zip?raw=true",
+          "archiveFileName": "ArtysBoards-1.0.0.zip",
+          "checksum": "b271895e1680bb2efdece17a9a38df98",
+          "checksum": "SHA-256:33923d4ab47ff5f92de3fd22f00e39604b7b4412d9508566685bc1ab6b9a94b3",
+          "size": "6451088",
           "boards": [
             {
               "name": "SRS MB5 M0"
